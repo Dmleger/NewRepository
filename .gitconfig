@@ -1,0 +1,8 @@
+[user]
+	name = dmleger
+	email = your_github_email
+[http]
+	sslverify = false
+	sslCAinfo = /etc/ssl/certs/ca-certificates.crt
+[credential]
+	helper = cache
